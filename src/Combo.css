@@ -1,0 +1,22 @@
+.combo{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.desc, .info{
+    margin: 10px 0;
+}
+
+.info, .valor{
+    font-weight: bold;
+}
+.nome{
+    margin-top: 20px;
+}
+.valor{
+    margin: 20px 0 0;
+}
