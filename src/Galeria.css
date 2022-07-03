@@ -1,0 +1,10 @@
+.galeria{
+    margin: 0 60px;
+}
+
+.combos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding-top: 20px;
+}
