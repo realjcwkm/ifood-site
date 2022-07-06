@@ -16,7 +16,7 @@
 }
 
 .menu li:hover {
-    background-color: #eee;
+    background-color: red;
     cursor: pointer;
 }
 
